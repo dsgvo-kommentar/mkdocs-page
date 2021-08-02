@@ -1,1 +1,18 @@
-site_name: My Docs
+site_name: dsgvo-kommentar.org
+theme:
+  name: material
+  language: de
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Zum dunklen Modus wechseln
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Zum hellen Modus wechseln
+  font: false
+extra_css:
+  - stylesheets/extra.css
