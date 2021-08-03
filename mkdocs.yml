@@ -27,6 +27,8 @@ theme:
     - navigation.tabs
     - navigation.top
 
+repo_url: https://github.com/dsgvo-kommentar/mkdocs-page
+
 extra_css:
   - stylesheets/extra.css
 
