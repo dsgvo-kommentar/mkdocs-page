@@ -1,4 +1,5 @@
 site_name: dsgvo-kommentar.org
+
 theme:
   name: material
   language: de
@@ -14,5 +15,26 @@ theme:
         icon: material/toggle-switch
         name: Zum hellen Modus wechseln
   font: false
+
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
