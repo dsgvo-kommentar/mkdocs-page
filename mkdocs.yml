@@ -29,6 +29,8 @@ theme:
 
 repo_url: https://github.com/dsgvo-kommentar/mkdocs-page
 
+nav:
+
 extra_css:
   - stylesheets/extra.css
 
