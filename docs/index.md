@@ -4,12 +4,12 @@ Hier finden Sie eine Reihe an kostenlosen Gesetzeskommentierungen zur Verordnung
 
 Bitte sein Sie sich bewusst, dass die Lektüre dieser Kommentierungen eine Rechtsberatung durch Anwält*innen nicht ersetzen kann und möchte.
 
-## Commands
+## Aufbau
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Einleitung
+* Inhaltsverzeichnis
+* Mitarbeit
+* Lizenzbestimmungen
 
 ## Project layout
 
