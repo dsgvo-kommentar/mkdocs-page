@@ -4,6 +4,8 @@ Hier finden Sie eine Reihe an kostenlosen Gesetzeskommentierungen zur Verordnung
 
 Bitte sein Sie sich bewusst, dass die Lektüre dieser Kommentierungen eine Rechtsberatung durch Anwält*innen nicht ersetzen kann und möchte.
 
+Da es sich bei diesem Projekt um ein Open Source Projekt handelt, freuen wir uns stets über [Mitarbeit](#) in Form von Textspenden oder [finanzielle Unterstützung](#) bei den Betriebskosten für das Projekt.
+
 ## Aufbau
 
 * Einleitung
