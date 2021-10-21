@@ -59,3 +59,4 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/DSGVO_Kommentar
   copyright: Lizenziert unter der GNU GPLv3
+  generator: false
