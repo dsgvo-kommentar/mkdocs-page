@@ -58,6 +58,11 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/DSGVO_Kommentar
+    - icon: fontawesome/solid/envelope
+      link: mailto:#
+    - icon: fontawesome/solid/donate
+      link: https://#/
+      name: Unterstützen
   generator: false
 
 copyright: Lizenziert unter der GNU GPLv3
